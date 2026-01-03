@@ -1,0 +1,21 @@
+# Study notes
+
+#Image Classification —— Identifying a Cake’s Flavor
+
+Object Detection —— Finding All Decorations on a Cake
+
+Semantic Segmentation —— Coloring Different Parts of a Cake to Distinguish Them
+
+Instance Segmentation —— Distinguishing Every Single Strawberry on a Cake
+
+#Traditional CV (e.g., SIFT/HOG Features + SVM Classifier) —— Handmade Simple Cake Molds
+
+Convolutional Neural Network (CNN) —— You own a set of intelligent molds that can automatically adjust their shape. It adapts to any cake style you want (e.g., circular, square, heart-shaped, even creative designs) without requiring manual mold changes.
+
+Transfer Learning —— You have a ready-made vanilla cake recipe (pre-trained model). Instead of developing a new recipe from scratch, you only need to modify a few ingredients (e.g., add cocoa powder for chocolate cake, add matcha powder for matcha cake) to quickly create a new flavor.
+
+Image Generation (e.g., GAN, VAE) —— creates a brand-new cake that has never been made before but meets the customer’s requirements based on their description, rather than replicating an existing style.
+
+Image Super-Resolution —— You have a blurry photo of a cake. Through technical processing, the fine textures of the cake (e.g., cream lines, strawberry seeds) become clearly visible, as if the photo was taken up close.
+
+Object Tracking —— ou watch the entire cake-making process and keep your focus on one specific strawberry, accurately locating it no matter where it is moved.
